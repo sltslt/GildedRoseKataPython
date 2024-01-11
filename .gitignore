@@ -1,0 +1,4 @@
+# demo git ignore file
+ignore.txt
+ignore_this.txt
+no_push.py
